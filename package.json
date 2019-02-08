@@ -1,0 +1,15 @@
+{
+  "name": "compresspictures",
+  "version": "1.0.0",
+  "description": "Compressing Pictures Template",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Landeryou",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-imagemin": "^5.0.3"
+  }
+}
